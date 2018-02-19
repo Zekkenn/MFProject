@@ -413,4 +413,9 @@ public class FileProcessor {
     public HashMap<Integer, String> getFileLines() {
         return fileLines;
     }
+    
+    public void main(String args[]) throws Exception{
+        
+    }
+    
 }
